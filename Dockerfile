@@ -1,8 +1,8 @@
-FROM jdubz/elixir:1.5.1
+FROM jdubz/elixir:1.6.0
 
 MAINTAINER Josh Williams <vmizzle@gmail.com>
 
-ENV REFRESHED_AT=2017-11-13
+ENV REFRESHED_AT=2018-03-28
 
 RUN apk --update add \
 		bash \
