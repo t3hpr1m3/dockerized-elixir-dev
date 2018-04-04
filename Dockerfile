@@ -14,6 +14,7 @@ RUN apk --update add \
 		erlang-inets \
 		erlang-parsetools \
 		erlang-public-key \
+		erlang-runtime-tools \
 		erlang-sasl \
 		erlang-ssl \
 		erlang-syntax-tools \
